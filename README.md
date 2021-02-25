@@ -10,7 +10,7 @@
 
 _The following questions will be answered with my own words to chech the understanding of the main OOP concepts:_
 
-### What is object-oriented programming in general terms?
+- ### What is object-oriented programming in general terms?
 ### What is a class?
 ### What is an object?
 ### What is an instance?
