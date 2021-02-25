@@ -1,7 +1,7 @@
 <?php
 
 
-//Exercise 1
+//Exercise 3
 abtract class Device
 {
     public string $model;

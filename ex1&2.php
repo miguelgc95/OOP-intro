@@ -4,8 +4,8 @@
 //Exercise 1
 class Device
 {
-    public string $model;
-    public int $serialNumber;
+    protected string $model;
+    protected int $serialNumber;
 
     public function getSerialNumber()
     {
