@@ -8,7 +8,7 @@
 
 # Theoretical part
 
-_The following questions will be answered with my own words to chech the understanding of the main OOP concepts:_
+_The following questions will be answered with my own words to check the understanding of the main OOP concepts:_
 
 - ### What is object-oriented programming in general terms?
 Es un paradigma de programación que viene a solventar algunos problemas que aparecen en la programación funcional tales como la reutilización de código o la encapsulación.
